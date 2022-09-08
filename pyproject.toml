@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "edgesimpy-tutorials"
+version = "1.0.0"
+description = "Hands-on tutorials to help you understand how EdgeSimPy works and how to use it in your research"
+authors = ["Paulo Severo <paulo.severo@edu.pucrs.br>"]
+
+[tool.poetry.dependencies]
+python = "^3.7.1"
+
+[tool.poetry.dev-dependencies]
+ipykernel = "^6.15.2"
+black = "^22.8.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.black]
+line-length = 130
