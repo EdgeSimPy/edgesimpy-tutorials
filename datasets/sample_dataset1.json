@@ -4556,7 +4556,7 @@
                 "active": true,
                 "power_model_parameters": {
                     "max_power_consumption": 265,
-                    "static_power_percentage": 166
+                    "static_power_percentage": 0.6264
                 }
             },
             "relationships": {
@@ -4594,7 +4594,7 @@
                 "active": true,
                 "power_model_parameters": {
                     "max_power_consumption": 265,
-                    "static_power_percentage": 166
+                    "static_power_percentage": 0.6264
                 }
             },
             "relationships": {
@@ -4632,7 +4632,7 @@
                 "active": true,
                 "power_model_parameters": {
                     "max_power_consumption": 218,
-                    "static_power_percentage": 67
+                    "static_power_percentage": 0.3073
                 }
             },
             "relationships": {
@@ -4670,7 +4670,7 @@
                 "active": true,
                 "power_model_parameters": {
                     "max_power_consumption": 218,
-                    "static_power_percentage": 67
+                    "static_power_percentage": 0.3073
                 }
             },
             "relationships": {
@@ -4730,7 +4730,7 @@
                 "active": true,
                 "power_model_parameters": {
                     "max_power_consumption": 200,
-                    "static_power_percentage": 63.1
+                    "static_power_percentage": 0.3155
                 }
             },
             "relationships": {
@@ -4952,7 +4952,7 @@
                 "active": true,
                 "power_model_parameters": {
                     "max_power_consumption": 200,
-                    "static_power_percentage": 63.1
+                    "static_power_percentage": 0.3155
                 }
             },
             "relationships": {
