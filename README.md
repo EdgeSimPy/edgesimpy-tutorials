@@ -36,9 +36,14 @@ You can find the list of available tutorials down below.
 
 ```bibtex
 @article{souza2023edgesimpy,
-  title={EdgeSimPy: Python-based modeling and simulation of edge computing resource management policies},
-  author={Souza, Paulo S and Ferreto, Tiago and Calheiros, Rodrigo N},
-  journal={Future Generation Computer Systems},
-  year={2023},
-  publisher={Elsevier}
+    author={Paulo S. Souza and Tiago Ferreto and Rodrigo N. Calheiros},
+    title={EdgeSimPy: Python-Based Modeling and Simulation of Edge Computing Resource Management Policies},
+    journal={Future Generation Computer Systems},
+    year={2023},
+    issn={0167-739X},
+    volume={TBD},
+    pages={TBD},
+    doi={https://doi.org/10.1016/j.future.2023.06.013},
+    publisher={Elsevier}
 }
+```
