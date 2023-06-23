@@ -32,7 +32,7 @@ You can find the list of available tutorials down below.
 
 ## Are You Using EdgeSimPy?
 
-**The EdgeSimPy paper is published in the Future Generation Computer Systems journal ([link here](https://doi.org/10.1016/j.future.2023.06.013), [PDF here](https://github.com/EdgeSimPy/EdgeSimPy/blob/master/docs/assets/EdgeSimPy-Paper-FGCS.pdf)). If you use EdgeSimPy in an academic work, we would appreciate citations according to the following reference:**
+**The EdgeSimPy paper is published in the Future Generation Computer Systems journal ([link here](https://doi.org/10.1016/j.future.2023.06.013), [PDF here](https://raw.githubusercontent.com/EdgeSimPy/edgesimpy/master/docs/assets/EdgeSimPy-Paper-FGCS.pdf)). If you use EdgeSimPy in an academic work, we would appreciate citations according to the following reference:**
 
 ```bibtex
 @article{souza2023edgesimpy,
