@@ -1,14 +1,17 @@
 [tool.poetry]
 name = "edgesimpy-tutorials"
+package-mode = false
 version = "1.0.0"
 description = "Hands-on tutorials to help you understand how EdgeSimPy works and how to use it in your research"
 authors = ["Paulo Severo <paulo.severo@edu.pucrs.br>"]
 
 [tool.poetry.dependencies]
-python = "^3.7.1"
+python = "^3.10"
 edge-sim-py = {git = "https://github.com/EdgeSimPy/EdgeSimPy.git", rev = "v1.1.0"}
 matplotlib = "3.5.0"
 pandas = "1.3.5"
+networkx = "2.6.2"
+numpy = "1.26.4"
 
 [tool.poetry.dev-dependencies]
 ipykernel = "^6.15.2"
@@ -19,4 +22,4 @@ requires = ["poetry-core>=1.0.0"]
 build-backend = "poetry.core.masonry.api"
 
 [tool.black]
-line-length = 130
+line-length = 140
